@@ -6,10 +6,12 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "nuxt3": "latest"
+    "nuxt3": "latest",
+    "sass": "^1.57.1",
+    "sass-loader": "^13.2.0"
   },
   "dependencies": {
     "bootstrap": "^5.2.3",
-    "uuid": "^9.0.0"
+    "scss": "^0.2.4"
   }
 }
